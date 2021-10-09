@@ -6,7 +6,7 @@
     <div class="collapse navbar-collapse" id="navbarColor01">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-                <a class="nav-link" href="#">Repositorio</a>
+                <a class="nav-link" href="https://github.com/reinaldomrn/pokemon-app" target="_blanck">Repositorio</a>
             </li>
         </ul>
     </div>

@@ -13,6 +13,6 @@ En esta aplicación se listara una serie de pokemones, los cuales podrán ser bu
 4. Finalmente ejecute el comando <code>php artisan serve</code> y copie la dirección
 5. Abra un browser o navegador web y pegue la dirección copiada a continuación presione enter.
 
-## Pasos para ejecutar las pruebas unitarias con phpunit
+## Pasos para ejecutar las pruebas con phpunit
 1. Abra un terminal y navegue hasta el directorio de la app
 2. Ejecute el comando: <code>vendor/bin/phpunit</code>
