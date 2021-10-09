@@ -18,7 +18,3 @@ Route::get('/', "PokemonController@pokemons");
 Route::get('/getPagePokemons', "PokemonController@getPagePokemons");
 
 Route::get('/getPokemonByName', "PokemonController@getPokemonByName");
-
-// Route::get('/controler', "PruebaController@test");
-
-// Route::resource('/controler2', PruebaTestController::class);
