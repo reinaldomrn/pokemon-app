@@ -5,9 +5,9 @@ En esta aplicación se listara una serie de pokemones, los cuales podrán ser bu
 ## Pasos para ejecutar Pokemon APP
 1. Clonar este repositorio
 2. Abra un terminal y navegue hasta el directorio donde clono la app
-3. Ejecute los siguientes comandos
-    3.1 <code>composer install</code>
-    3.2 <code>npm install</code>
+3. Ejecute los siguientes comandos:
+     <p><code>composer install</code> </p>
+     <p><code>npm install</code></p>
 4. En la raíz del proyecto cree un nuevo archivo llamado .env y copie el contenido del archivo .env.example y peguelo en el archivo creado
 5. Seguidamente ejecute en el terminal el comando: <code>php artisan key:generate</code>
 4. Finalmente ejecute el comando <code>php artisan serve</code> y copie la dirección
